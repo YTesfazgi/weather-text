@@ -1,0 +1,18 @@
+{
+  "name": "weather-text",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "copy-paste": "^1.3.0",
+    "dotenv": "^16.0.1",
+    "node-fetch": "^3.2.6",
+    "twilio": "^3.78.0"
+  }
+}
